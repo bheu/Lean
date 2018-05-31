@@ -88,6 +88,7 @@
     </Compile>
     <Compile Include="AddRemoveOptionUniverseRegressionAlgorithm.cs" />
     <Compile Include="AddRemoveSecurityRegressionAlgorithm.cs" />
+    <Compile Include="CoarseUniverseSplitRegressionAlgorithm.cs" />
     <Compile Include="OptionDataNullReferenceRegressionAlgorithm.cs" />
     <Compile Include="CancelOpenOrdersRegressionAlgorithm.cs" />
     <Compile Include="ConvertToFrameworkAlgorithm.cs" />

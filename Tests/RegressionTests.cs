@@ -1219,6 +1219,7 @@ namespace QuantConnect.Tests
                 new AlgorithmStatisticsTestParameters("DelistingEventsAlgorithm", delistingEventsAlgorithm, Language.CSharp),
                 new AlgorithmStatisticsTestParameters("RenkoConsolidatorAlgorithm", renkoConsolidatorStatistics, Language.CSharp),
                 new AlgorithmStatisticsTestParameters("DisplacedMovingAverageRibbon", displacedMovingAverageRibbonStatistics, Language.CSharp),
+                new AlgorithmStatisticsTestParameters("CoarseUniverseSplitRegressionAlgorithm", emptyStatistics, Language.CSharp),
 
                 // Python
                 new AlgorithmStatisticsTestParameters("AddRemoveSecurityRegressionAlgorithm", addRemoveSecurityRegressionStatistics, Language.Python),
